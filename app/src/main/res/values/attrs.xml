@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Custom attribute for setting the bearing-->
+<resources>
+    <declare-styleable name="CompassView">
+        <attr name="bearing" format="reference|float"/>
+    </declare-styleable>
+</resources>
